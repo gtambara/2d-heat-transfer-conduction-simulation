@@ -22,4 +22,5 @@ It works just like 'simulacao' but also generates a video using all the frames o
 
 An example of the program use in a predefined colormap and initial conditions is shown as follows:
 
-![Figure](https://user-images.githubusercontent.com/34486353/111574580-81093400-878b-11eb-8602-00e212198060.png)
+![Figure](https://user-images.githubusercontent.com/34486353/111574787-ee1cc980-878b-11eb-984b-925efcff1bd3.png)
+

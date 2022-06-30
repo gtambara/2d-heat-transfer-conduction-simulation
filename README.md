@@ -28,3 +28,11 @@ An example of the analysis function is shown as follows:
 
 ![Figure_analysis](https://user-images.githubusercontent.com/34486353/111575482-32f53000-878d-11eb-8c5f-f84e4d94d5c0.png)
 
+You can execute the code like so:
+
+`python main.py -n 47 -t 0.010`
+
+Which is the default so if you want you can just go like:
+
+`python main.py`
+

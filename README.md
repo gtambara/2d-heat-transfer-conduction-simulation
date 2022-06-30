@@ -30,7 +30,7 @@ An example of the analysis function is shown as follows:
 
 You can execute the code like so:
 
-`python main.py -n 47 -t 0.010`
+`python main.py -n 47 -t 0.001`
 
 Which is the default so if you want you can just go like:
 
